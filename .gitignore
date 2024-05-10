@@ -3,7 +3,7 @@
 *.psd
 *.jpg
 *.jpeg
-*.py
+# *.py
 *.bbl-SAVE-ERROR
 *.tex
 *.bib
