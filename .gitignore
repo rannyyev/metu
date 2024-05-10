@@ -7,6 +7,7 @@
 *.bbl-SAVE-ERROR
 *.tex
 *.bib
+*.cls
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
