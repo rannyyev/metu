@@ -1,4 +1,4 @@
-# PHYS200: Basics of Scientific Computation
+# PHYS200 Basics of Scientific Computation
 
 *PHYS200 Basics of Scientific Computation* is an undergraduate Physics course offered to sophomore students at Middle East Technical University, Ankara, Turkey.
 
